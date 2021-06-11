@@ -97,7 +97,6 @@ class _AvitoState extends State<Avito> {
 
   @override
   Widget build(BuildContext context) {
-    int indexes = 1;
     return SingleChildScrollView(
       child: Column(
         children: <Widget>[
